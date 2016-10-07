@@ -10,6 +10,19 @@
     "type": "git",
     "url": "git+https://github.com/msf-oca-his/d2-ui-dist.git"
   },
+  "dependencies": {
+    "d2-utilizr": "^0.2.4",
+    "d3-color": "^0.4.2",
+    "d3-format": "^0.6.0",
+    "d3-scale": "^0.7.2",
+    "draft-js": "^0.7.0",
+    "lodash": "^4.12.0",
+    "loglevel": "1.4.0",
+    "moment": "^2.11.2",
+    "react-color": "^2.2.7",
+    "recompose": "^0.20.2",
+    "rx": "^4.0.8"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
